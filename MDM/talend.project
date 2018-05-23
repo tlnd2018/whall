@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_uEWb4V5-EeitJP-Z-OfQqw" label="MDM" description="" language="java" technicalLabel="MDM" creationDate="2018-05-23T13:34:02.221+0200" author="_uEWb4l5-EeitJP-Z-OfQqw" productVersion="Talend Data Fabric-6.5.1.20180116_1512" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/tlnd2018/whall.git&quot;,&quot;login&quot;:&quot;tlnd2018&quot;,&quot;passwd&quot;:&quot;Xf2mcLFzK1wQ99ZxUw0nuA==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="MDM"/>
+  <TalendProperties:User xmi:id="_uEWb4l5-EeitJP-Z-OfQqw" login="rzenkert@talend.com" firstName="Robert" lastName="Zenkert" type="MDM" additionnalData="{}"/>
+</xmi:XMI>
