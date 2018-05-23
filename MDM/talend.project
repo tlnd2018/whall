@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_uEWb4V5-EeitJP-Z-OfQqw" label="MDM" description="" language="java" technicalLabel="MDM" creationDate="2018-05-23T13:34:02.221+0200" author="_uEWb4l5-EeitJP-Z-OfQqw" productVersion="Talend Data Fabric-6.5.1.20180116_1512" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/tlnd2018/whall.git&quot;,&quot;login&quot;:&quot;tlnd2018&quot;,&quot;passwd&quot;:&quot;Xf2mcLFzK1wQ99ZxUw0nuA==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="MDM">
+  <TalendProperties:Project xmi:id="_uEWb4V5-EeitJP-Z-OfQqw" label="MDM" description="" language="java" technicalLabel="MDM" creationDate="2018-05-23T13:34:02.221+0200" author="_uEWb4l5-EeitJP-Z-OfQqw" productVersion="Talend Data Fabric-6.5.1.20180116_1512" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/tlnd2018/whall.git&quot;,&quot;login&quot;:&quot;tlnd2018&quot;,&quot;passwd&quot;:&quot;Xf2mcLFzK1wQ99ZxUw0nuA==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="MDM" itemsRelationVersion="1.3">
+    <technicalStatus xmi:id="_ul8tEF5-EeitJP-Z-OfQqw" label="development" code="DEV"/>
+    <technicalStatus xmi:id="_ul8tEV5-EeitJP-Z-OfQqw" label="testing" code="TEST"/>
+    <technicalStatus xmi:id="_ul8tEl5-EeitJP-Z-OfQqw" label="production" code="PROD"/>
+    <documentationStatus xmi:id="_ulzjIF5-EeitJP-Z-OfQqw" label="unchecked" code="UCK"/>
+    <documentationStatus xmi:id="_ulzjIV5-EeitJP-Z-OfQqw" label="checked" code="CHK"/>
+    <documentationStatus xmi:id="_ulzjIl5-EeitJP-Z-OfQqw" label="validated" code="VAL"/>
     <migrationTask xmi:id="_uk150F5-EeitJP-Z-OfQqw" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_uk150V5-EeitJP-Z-OfQqw" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_uk150l5-EeitJP-Z-OfQqw" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
