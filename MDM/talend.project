@@ -400,4 +400,5 @@
     <migrationTask xmi:id="_vYFUoV5-EeitJP-Z-OfQqw" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_uEWb4l5-EeitJP-Z-OfQqw" login="rzenkert@talend.com" firstName="Robert" lastName="Zenkert" type="MDM" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_ZEdvMWALEeispLTX3JqQww" login="matthias.faerber@prodato.de" firstName="Matthias" lastName="Faerber" type="MDM" additionnalData="{}"/>
 </xmi:XMI>
